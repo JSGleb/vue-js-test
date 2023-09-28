@@ -13,7 +13,8 @@
 // import HelloWorld from './components/HelloWorld.vue'
 // import PictureComp from './components/Picture.vue'
 // import TestComp from './components/Test.vue'
-import ClasesStyles from './components/ClassesStyles.vue'
+
+import ClasesStyles from './components/ClasesStyles.vue'
 import InlineStyles from './components/InlineStyles.vue'
 import CompStyles from './components/CompStyles.vue'
 
